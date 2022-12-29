@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3654538995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6d7137b4fdad8676e70dd8bf32f0dc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9373241baafe7684daf662ef4780ff70
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CubeMaterial.mat
+- Assets/SphereMaterial.mat
+Dependencies: []

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 566107937
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modle
+      Dependencies:
+        Dependency_0: material
+    Info_1:
+      Name: material
+      Dependencies: {}
+    Info_2:
+      Name: image
+      Dependencies: {}
